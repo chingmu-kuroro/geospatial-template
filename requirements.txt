@@ -7,3 +7,4 @@ nbserverproxy
 owslib
 streamlit
 fiona
+pydeck
